@@ -195,4 +195,10 @@ h3 {
 }
 .side-links img{
     padding-right: 16px;
+    width: 60%;
+}
+.channel-icon{
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
 }
